@@ -1,0 +1,26 @@
+C:\Users\Sydney\Documents\programaçao\intermediario\controleconsultorio\controleconsultorio\bin\Debug\controleconsultorio.exe.config
+C:\Users\Sydney\Documents\programaçao\intermediario\controleconsultorio\controleconsultorio\bin\Debug\controleconsultorio.exe
+C:\Users\Sydney\Documents\programaçao\intermediario\controleconsultorio\controleconsultorio\bin\Debug\controleconsultorio.pdb
+C:\Users\Sydney\Documents\programaçao\intermediario\controleconsultorio\controleconsultorio\obj\Debug\controleconsultorio.csprojAssemblyReference.cache
+C:\Users\Sydney\Documents\programaçao\intermediario\controleconsultorio\controleconsultorio\obj\Debug\controleconsultorio.cadastromedico.resources
+C:\Users\Sydney\Documents\programaçao\intermediario\controleconsultorio\controleconsultorio\obj\Debug\controleconsultorio.Form1.resources
+C:\Users\Sydney\Documents\programaçao\intermediario\controleconsultorio\controleconsultorio\obj\Debug\controleconsultorio.Properties.Resources.resources
+C:\Users\Sydney\Documents\programaçao\intermediario\controleconsultorio\controleconsultorio\obj\Debug\controleconsultorio.csproj.GenerateResource.cache
+C:\Users\Sydney\Documents\programaçao\intermediario\controleconsultorio\controleconsultorio\obj\Debug\controleconsultorio.csproj.CoreCompileInputs.cache
+C:\Users\Sydney\Documents\programaçao\intermediario\controleconsultorio\controleconsultorio\obj\Debug\controleconsultorio.exe
+C:\Users\Sydney\Documents\programaçao\intermediario\controleconsultorio\controleconsultorio\obj\Debug\controleconsultorio.pdb
+C:\Users\Sydney\Documents\programaçao\intermediario\controleconsultorio\controleconsultorio\obj\Debug\controleconsultorio.cadastroconsultas.resources
+C:\Users\Sydney\Documents\programaçao\intermediario\controleconsultorio\controleconsultorio\obj\Debug\controleconsultorio.cadastropacientes.resources
+C:\Users\Sydney\Documents\programaçao c#\C#\intermediario\controleconsultorio\controleconsultorio\bin\Debug\controleconsultorio.exe.config
+C:\Users\Sydney\Documents\programaçao c#\C#\intermediario\controleconsultorio\controleconsultorio\bin\Debug\controleconsultorio.exe
+C:\Users\Sydney\Documents\programaçao c#\C#\intermediario\controleconsultorio\controleconsultorio\bin\Debug\controleconsultorio.pdb
+C:\Users\Sydney\Documents\programaçao c#\C#\intermediario\controleconsultorio\controleconsultorio\obj\Debug\controleconsultorio.csprojAssemblyReference.cache
+C:\Users\Sydney\Documents\programaçao c#\C#\intermediario\controleconsultorio\controleconsultorio\obj\Debug\controleconsultorio.cadastroconsultas.resources
+C:\Users\Sydney\Documents\programaçao c#\C#\intermediario\controleconsultorio\controleconsultorio\obj\Debug\controleconsultorio.cadastromedico.resources
+C:\Users\Sydney\Documents\programaçao c#\C#\intermediario\controleconsultorio\controleconsultorio\obj\Debug\controleconsultorio.cadastropacientes.resources
+C:\Users\Sydney\Documents\programaçao c#\C#\intermediario\controleconsultorio\controleconsultorio\obj\Debug\controleconsultorio.Form1.resources
+C:\Users\Sydney\Documents\programaçao c#\C#\intermediario\controleconsultorio\controleconsultorio\obj\Debug\controleconsultorio.Properties.Resources.resources
+C:\Users\Sydney\Documents\programaçao c#\C#\intermediario\controleconsultorio\controleconsultorio\obj\Debug\controleconsultorio.csproj.GenerateResource.cache
+C:\Users\Sydney\Documents\programaçao c#\C#\intermediario\controleconsultorio\controleconsultorio\obj\Debug\controleconsultorio.csproj.CoreCompileInputs.cache
+C:\Users\Sydney\Documents\programaçao c#\C#\intermediario\controleconsultorio\controleconsultorio\obj\Debug\controleconsultorio.exe
+C:\Users\Sydney\Documents\programaçao c#\C#\intermediario\controleconsultorio\controleconsultorio\obj\Debug\controleconsultorio.pdb
